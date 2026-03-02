@@ -48,7 +48,7 @@ The final score is displayed along with a visual status indicator.
 ## 📂 Project Structure
 
 Password-Strength-Checker/  
-│── app.py  
+│── project.py  
 │── requirements.txt  
 │── README.md  
 
@@ -70,7 +70,7 @@ pip install -r requirements.txt
 
 ### 4️⃣ Run the Application
 
-python -m streamlit run app.py
+python -m streamlit run project.py
 
 The application will open automatically in your browser.
 
